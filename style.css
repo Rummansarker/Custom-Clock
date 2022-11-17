@@ -1,0 +1,19 @@
+
+.clock-container {
+    text-align: center;
+    margin-top: 200px;
+    font-size: 50px;
+    color: #e84393;
+    /* background-color: yellowgreen; */
+}
+
+.btn-container{
+    text-align: center;
+}
+.btn-container #btn {
+    margin-top: 150px;
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
